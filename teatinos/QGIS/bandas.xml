@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<bandset bandsetpresent="No" unit="band number">
+	<band number="1">
+		<name>RT_clip_B0stack_raster.tif#b0</name>
+		<wavelength>0.442</wavelength>
+		<multiplicative_factor>1</multiplicative_factor>
+		<additive_factor>0</additive_factor>
+		<wavelength_unit>band number</wavelength_unit>
+		<image_name>RT_clip_B0stack_raster.tif</image_name>
+	</band>
+	<band number="2">
+		<name>RT_clip_B0stack_raster.tif#b1</name>
+		<wavelength>0.492</wavelength>
+		<multiplicative_factor>1</multiplicative_factor>
+		<additive_factor>0</additive_factor>
+		<wavelength_unit>band number</wavelength_unit>
+		<image_name>RT_clip_B0stack_raster.tif</image_name>
+	</band>
+	<band number="3">
+		<name>RT_clip_B0stack_raster.tif#b2</name>
+		<wavelength>0.559</wavelength>
+		<multiplicative_factor>1</multiplicative_factor>
+		<additive_factor>0</additive_factor>
+		<wavelength_unit>band number</wavelength_unit>
+		<image_name>RT_clip_B0stack_raster.tif</image_name>
+	</band>
+	<band number="4">
+		<name>RT_clip_B0stack_raster.tif#b3</name>
+		<wavelength>0.664</wavelength>
+		<multiplicative_factor>1</multiplicative_factor>
+		<additive_factor>0</additive_factor>
+		<wavelength_unit>band number</wavelength_unit>
+		<image_name>RT_clip_B0stack_raster.tif</image_name>
+	</band>
+	<band number="5">
+		<name>RT_clip_B0stack_raster.tif#b4</name>
+		<wavelength>0.703</wavelength>
+		<multiplicative_factor>1</multiplicative_factor>
+		<additive_factor>0</additive_factor>
+		<wavelength_unit>band number</wavelength_unit>
+		<image_name>RT_clip_B0stack_raster.tif</image_name>
+	</band>
+	<band number="6">
+		<name>RT_clip_B0stack_raster.tif#b5</name>
+		<wavelength>0.739</wavelength>
+		<multiplicative_factor>1</multiplicative_factor>
+		<additive_factor>0</additive_factor>
+		<wavelength_unit>band number</wavelength_unit>
+		<image_name>RT_clip_B0stack_raster.tif</image_name>
+	</band>
+	<band number="7">
+		<name>RT_clip_B0stack_raster.tif#b6</name>
+		<wavelength>0.779</wavelength>
+		<multiplicative_factor>1</multiplicative_factor>
+		<additive_factor>0</additive_factor>
+		<wavelength_unit>band number</wavelength_unit>
+		<image_name>RT_clip_B0stack_raster.tif</image_name>
+	</band>
+	<band number="8">
+		<name>RT_clip_B0stack_raster.tif#b7</name>
+		<wavelength>0.832</wavelength>
+		<multiplicative_factor>1</multiplicative_factor>
+		<additive_factor>0</additive_factor>
+		<wavelength_unit>band number</wavelength_unit>
+		<image_name>RT_clip_B0stack_raster.tif</image_name>
+	</band>
+	<band number="9">
+		<name>RT_clip_B0stack_raster.tif#b8</name>
+		<wavelength>0.864</wavelength>
+		<multiplicative_factor>1</multiplicative_factor>
+		<additive_factor>0</additive_factor>
+		<wavelength_unit>band number</wavelength_unit>
+		<image_name>RT_clip_B0stack_raster.tif</image_name>
+	</band>
+	<band number="10">
+		<name>RT_clip_B0stack_raster.tif#b9</name>
+		<wavelength>0.943</wavelength>
+		<multiplicative_factor>1</multiplicative_factor>
+		<additive_factor>0</additive_factor>
+		<wavelength_unit>band number</wavelength_unit>
+		<image_name>RT_clip_B0stack_raster.tif</image_name>
+	</band>
+	<band number="11">
+		<name>RT_clip_B0stack_raster.tif#b10</name>
+		<wavelength>1.61</wavelength>
+		<multiplicative_factor>1</multiplicative_factor>
+		<additive_factor>0</additive_factor>
+		<wavelength_unit>band number</wavelength_unit>
+		<image_name>RT_clip_B0stack_raster.tif</image_name>
+	</band>
+	<band number="12">
+		<name>RT_clip_B0stack_raster.tif#b11</name>
+		<wavelength>2.18</wavelength>
+		<multiplicative_factor>1</multiplicative_factor>
+		<additive_factor>0</additive_factor>
+		<wavelength_unit>band number</wavelength_unit>
+		<image_name>RT_clip_B0stack_raster.tif</image_name>
+	</band>
+</bandset>

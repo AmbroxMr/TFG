@@ -1,0 +1,9 @@
+.vscode
+__pycache__
+*.swo
+pantano/classifier
+pantano/dataset/
+pantano/dataset/
+teatinos/classifier
+teatinos/dataset/
+

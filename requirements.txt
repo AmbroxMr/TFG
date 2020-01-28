@@ -1,0 +1,12 @@
+numpy
+rasterio
+shapely
+pyproj
+sentinelsat
+tqdm
+matplotlib
+scipy
+pandas
+sklearn
+scikit-image
+mlxtend
