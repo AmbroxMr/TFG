@@ -1,7 +1,6 @@
 import sys
 import pandas as pd
 from utils import band_size
-import warnings
 from sklearn.preprocessing import LabelEncoder
 import joblib
 from os import  mkdir
@@ -20,7 +19,6 @@ if __name__ == '__main__':
     if not(exists(paths.classifier_directory)):
         mkdir(paths.classifier_directory)
 
-    warnings.simplefilter('ignore')
     RANDOM_SEED = 42
     n_images_chunk = config.chunk_images_train
 
