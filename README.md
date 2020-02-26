@@ -29,7 +29,8 @@ You can modify input arguments at `/location/config.py`
 ``` bash
 #either teatinos or pantano are avaiable
 location=teatinos
-python3 -W ignore generate_dataset_multiprocessing.py $location && python3 detect_outliers_dataset.py $location && python3 classifier.py $location && python3 prediction.py $location
+# The -Wignore flag can be use to ignore warning
+python3 generate_dataset_multiprocessing.py $location && python3 detect_outliers_dataset.py $location && python3 classifier.py $location && python3 prediction.py $location
 ```
 
 # Add new location
