@@ -72,10 +72,10 @@ def read_band(filename, get_coordinates=False ):
         geojson = paths.rectangle_geojson
 
     footprint = read_geojson(geojson)
-    shape = project_shape(footprint['features'][0]['geometry'])
 
     # load the raster, mask it by the polygon and crop it
     with rasterio.open(filename) as src:
+        shape = project_shape(footprint['features'][0]['geometry'], dcs=src.crs)
         out_image, out_transform = mask.mask(src, shapes=[shape], crop=True)
 
     if any(band in filename for band in ['CLD','classification']): 
