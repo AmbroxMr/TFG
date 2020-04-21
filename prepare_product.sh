@@ -6,7 +6,7 @@ fi
 
 for filename in $1/*.zip; do
     unzip -qq $filename -d $1/tmp
-    date=$(echo "$filename" | cut -f 3 -d _ | cut -f 1 -d T)
+    date=$(basename $filename |  cut -f 3 -d _ | cut -f 1 -d T)
     mkdir -p $1/$date
 
     # Create cropped and reflectance folders
